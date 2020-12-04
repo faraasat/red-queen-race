@@ -1,0 +1,12 @@
+.foreground {
+  z-index: 25;
+  top: 50%;
+}
+
+#fg-palm__4 {
+  position: absolute;
+  left: 44%;
+  top: 62%;
+  width: 24%;
+  z-index: 30;
+}

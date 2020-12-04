@@ -1,0 +1,62 @@
+.background-1 {
+  position: absolute;
+  width: 100%;
+  height: 100vh;
+  z-index: 2;
+}
+
+#bg-tree {
+  position: absolute;
+  left: 25%;
+  top: 60%;
+  width: 14%;
+  z-index: 2;
+}
+
+#bg-barrel {
+  position: absolute;
+  left: 75%;
+  top: 73.5%;
+  width: 14%;
+  z-index: 2;
+}
+
+#bg-well1 {
+  position: absolute;
+  left: 50%;
+  top: 61.3%;
+  width: 14%;
+  z-index: 2;
+}
+
+#bg-tree__1 {
+  position: absolute;
+  left: 90%;
+  top: 56%;
+  width: 24%;
+  z-index: 2;
+}
+
+#bg-bench__1 {
+  position: absolute;
+  left: 10%;
+  top: 69%;
+  width: 21%;
+  z-index: 2;
+}
+
+#bg-fence__1 {
+  position: absolute;
+  left: 36.8%;
+  top: 69%;
+  width: 16%;
+  z-index: 1;
+}
+
+#bg-fence__2 {
+  position: absolute;
+  left: 62.7%;
+  top: 69%;
+  width: 16.5%;
+  z-index: 1;
+}

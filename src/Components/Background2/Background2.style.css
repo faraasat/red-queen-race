@@ -1,0 +1,31 @@
+#bg-rook {
+  position: absolute;
+  left: 28%;
+  top: 71%;
+  width: 18%;
+  z-index: 2;
+}
+
+#bg-cow__1 {
+  position: absolute;
+  left: 75%;
+  top: 72%;
+  width: 14%;
+  z-index: 2;
+}
+
+#bg-house__2 {
+  position: absolute;
+  left: 50%;
+  top: 57%;
+  width: 36%;
+  z-index: 2;
+}
+
+#bg-fountain {
+  position: absolute;
+  left: 10%;
+  top: 71%;
+  width: 16%;
+  z-index: 2;
+}
