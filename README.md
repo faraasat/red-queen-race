@@ -22,7 +22,6 @@
 </p>
 
 ### 📷 Project UI:
-#### This is only Front-Page UI!
 
 <p align="center">
   <a href="http://run-queen.surge.sh/">
